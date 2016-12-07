@@ -34,6 +34,7 @@
 
 #### 17. [听榆大叔的技术博客](http://nathanli.cn)
 
-#### 18. [bang的技术博客](http://blog.cnbang.net)
+#### 18. [靛青K的社区](http://t.swift.gg/u/靛青K)
 
+#### 19. [bang的技术博客](http://blog.cnbang.net)
 
